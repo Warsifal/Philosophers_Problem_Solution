@@ -13,6 +13,6 @@ A java program on Dining philosophers problem.
 </p>
 
 <p align="center">
-<img width="1000" height="1045" src="examples/screenshot.jpg">
+<img width="1000" height="1000" src="examples/screenshot.jpg">
 </p>
 
